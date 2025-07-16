@@ -1,5 +1,5 @@
 # 💫 About Me: 
-## Diseñador de planos arquitectonico| DevOps Jr| Movil| Diseñador Pixelart|Ionic Developer| Google Developer 👋
+## Diseñador de planos arquitectonico| DevOps Jr| Movil| Diseñador Pixelart|Ionic Developer| Google Developer | Diseñador UI |Escritor👋
 
 
 # 💻 Tech Stack:
