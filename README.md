@@ -1,5 +1,5 @@
 # 💫 About Me: 
-## Diseñador planos arquitectonico| Software Developer| Diseñador |Analista Soc 1| API Penetration Tester Junior|Especialista Forense Multimedia| Asesor de Reciduos Cero| |Escritor👋
+## Diseñador planos arquitectonico| Software Developer|Ingeniero de Visión Artificial| Diseñador |Analista Soc 1| API Penetration Tester Junior|Especialista Forense Multimedia| Asesor de Reciduos Cero| |Escritor👋
 
 
 # 💻 Tech Stack:
