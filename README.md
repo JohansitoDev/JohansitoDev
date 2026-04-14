@@ -1,2 +1,2 @@
 # 💫 About Me: 
-## Estudent System Engenier | Blue Teamer| Software Developer | Diseñador
+## Estudiante de Ing en Sistema | Blue Teamer| Software Developer | Diseñador
