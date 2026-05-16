@@ -1,2 +1,2 @@
 # 💫 About Me: 
-## Ingeniero de Software
+## Junior Data Engineer
