@@ -1,13 +1,6 @@
-# Hola, soy [Johan Mancebo] 👋 | @johandevcib
+# Hola, soy Johan Mancebo 👋 
 
-## 🚀 Perfil Híbrido: De la Infraestructura de Datos a la Seguridad Defensiva y el Desarrollo
-
-
-### Portfolios Demostrable
-
-He organizado mis conocimientos y proyectos en monorepos especializados. Puedes ver mi ruta de aprendizaje y acceder a cada área directamente desde el mapa visual o la sección de monorepos a continuación.
-
----
+## 🚀 Perfil Híbrido: Desarollo de Productos Techologicos e implementacion de capas de seguridad
 
 ## 🗂️ Mis Monorepos Especializados
 
@@ -19,14 +12,7 @@ Auditoría y Pentesting Web con mentalidad Purple Team.
 * **📂 Acceso al Monorepo:** [Defensive-Cyber-Tools](https://github.com/[TU_USUARIO]/Defensive-Cyber-Tools) (✓ DEMONSTRABLE PROJECT)
 </details>
 
-<details>
-<summary><b>🛠️ Ingeniería de Datos (Estudiando) (🛠️ Monorepo)</b></summary>
-Arquitecto de tuberías de datos, construyendo la infraestructura para el análisis.
 
-* **Enfoque:** Data Growth Concept, pipelines ETL/ELT, Data Warehouse/Lake, Airflow workflow.
-* **📂 Acceso al Monorepo:** [Data-Engineering-Projects](https://github.com/[TU_USUARIO]/Data-Engineering-Projects)
-    * *Sub-proyecto:* [Traffic-Data-Pipeline](https://github.com/[TU_USUARIO]/Data-Engineering-Projects/tree/main/Traffic-Data-Pipeline) (✓ DEMONSTRABLE PROJECT)
-</details>
 
 <details>
 <summary><b>📱 Desarrollador Mobile Multiplataforma (📱 Monorepo)</b></summary>
@@ -51,12 +37,3 @@ Construyendo soluciones escalables e integradas de extremo a extremo.
 * **Enfoque:** Arquitectura de Microservicios, Integración Frontend-Backend, Despliegue en la Nube, API Security.
 * **📂 Acceso al Monorepo:** [Full-Stack-Web-Portfolio](https://github.com/[TU_USUARIO]/Full-Stack-Web-Portfolio) (✓ DEMONSTRABLE PROJECT)
 </details>
-
----
-
-### 📫 Contacto y Colaboración
-
-¿Interesado en mi perfil híbrido para un proyecto de Ingeniería de Datos segurizado o desarrollo multiplataforma?
-
-* 💼 [LinkedIn Perfil](https://linkedin.com/in/[TU_LINKEDIN_ID])
-* 📧 [Tu Email](mailto:tu.email@ejemplo.com)
