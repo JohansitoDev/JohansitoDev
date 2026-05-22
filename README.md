@@ -2,9 +2,8 @@
 
 ## 🚀 Perfil Híbrido: De la Infraestructura de Datos a la Seguridad Defensiva y el Desarrollo
 
-Soy un profesional apasionado por la tecnología, con un enfoque único que combina la robustez de la **Ingeniería de Datos**  con la mentalidad adversaria y analítica de la **Ciberseguridad Defensiva**. Mi experiencia se extiende al desarrollo multiplataforma (Mobile/Web), donde aplico principios de seguridad desde el diseño.
 
-### 🗺️ Mi Mapa de Carrera y Portfolio Demostrable
+### Portfolios Demostrable
 
 He organizado mis conocimientos y proyectos en monorepos especializados. Puedes ver mi ruta de aprendizaje y acceder a cada área directamente desde el mapa visual o la sección de monorepos a continuación.
 
