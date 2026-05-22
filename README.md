@@ -8,10 +8,6 @@ Soy un profesional apasionado por la tecnología, con un enfoque único que comb
 
 He organizado mis conocimientos y proyectos en monorepos especializados. Puedes ver mi ruta de aprendizaje y acceder a cada área directamente desde el mapa visual o la sección de monorepos a continuación.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4980ac6c-240a-473f-bd5d-f012f41499fe" alt="My Multi-Disciplinary Career Map & Starter Portfolio" width="100%" max-width="900px">
-</div>
-
 ---
 
 ## 🗂️ Mis Monorepos Especializados
