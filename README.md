@@ -1,4 +1,4 @@
-# Hola soy Johan Mancebo 👋, aka JohansitoDev
+# Hola soy Johan Mancebo 👋, aka JohansitoDev 🐙
 El pulpo y el pilar hibrido de JS.
 
 Con JS creo: Frontend, Backend, Movil, AR web, videojuego web, app de escritorio y ML web.
