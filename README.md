@@ -1,2 +1,2 @@
 # Hola👋, Soy Johan Mancebo.
-Especialista en  desarrollo de Aplicaciones a medida y seguras.
+Especialista en seguridad Cloudflare | Analista de seguridad de Aplicaciones Android/APK
