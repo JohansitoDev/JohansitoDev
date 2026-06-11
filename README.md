@@ -1,5 +1,5 @@
 # 👨‍💻 Johan Mancebo | JohansitoDev
-### DevSec Engineer | Pentester de IA Jr | ML Developer Jr
+### DevSec Engineer | Pentester de IA Jr 
 
 Bienvenido 👋🛡👨‍💻📚  
 Soy **DevSec Engineer** enfocado en seguridad aplicada al desarrollo y a la inteligencia artificial.  
@@ -21,19 +21,6 @@ Aplico prácticas de seguridad ofensiva y defensiva en entornos de desarrollo y 
 - Auditoría de dependencias y vulnerabilidades en proyectos JavaScript.  
 - Análisis de seguridad en modelos de IA (Prompt Injection, Model Extraction).  
 - Uso de herramientas de pentesting y análisis estático para entornos móviles y backend.
-
----
-
-## 🤖 Machine Learning Junior
-Desarrollo y despliego modelos simples para experimentación y análisis.
-
-**Stack principal:**
-`Python` · `Scikit-learn` · `Pandas` · `NumPy` · `Matplotlib` · `Streamlit` · `Flask` · `Google Colab`
-
-**Enfoque:**
-- Modelos básicos de clasificación y regresión.  
-- Visualización y análisis de datos.  
-- Integración de modelos en interfaces interactivas con Streamlit y Flask.
 
 ---
 
