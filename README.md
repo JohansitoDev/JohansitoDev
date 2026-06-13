@@ -1,10 +1,5 @@
 # 👨‍💻 Johan Mancebo | JohansitoDev
-### DevSec Engineer | Pentester de IA Jr 
-
-Bienvenido 👋🛡👨‍💻📚  
-Soy **DevSec Engineer** enfocado en seguridad aplicada al desarrollo y a la inteligencia artificial.  
-Exploro vulnerabilidades en modelos de IA, realizo pruebas de *Prompt Injection* y desarrollo modelos de machine learning básicos para comprender cómo funcionan y cómo protegerlos.
-
+### DevSec | Analista de Ciberseguridad | Pentester de IA Jr
 ---
 
 ## 🔐 DevSec & Pentesting de IA Jr
@@ -26,8 +21,7 @@ Aplico prácticas de seguridad ofensiva y defensiva en entornos de desarrollo y 
 
 ## 🧠 En aprendizaje continuo
 Actualmente profundizo en:
-- **Nest.js** y arquitectura backend escalable.  
-- **Algoritmos de árboles** y fundamentos de ML.  
+- **Nest.js** y arquitectura backend escalable.   
 - **Seguridad en IA** (Prompt Injection, Model Extraction, adversarial inputs).  
 - **Integración de modelos** en interfaces web seguras y funcionales.
 
@@ -36,6 +30,5 @@ Actualmente profundizo en:
 ## 📫 Contacto
 - 💼 [LinkedIn](https://linkedin.com/in/johansitodev)  
 - 🧠 [GitHub](https://github.com/JohansitoDev)  
-- ✉️ Correo: johansitodev@ejemplo.com  
-
+- ✉️ [Correo] johansitodev@ejemplo.com  
 ---
