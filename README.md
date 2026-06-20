@@ -10,12 +10,12 @@
 
 Me enfoco en la gestión de incidentes, mitigación de riesgos y análisis profundo de vectores de ataque para brindar protección integral a la identidad digital, la infraestructura corporativa y los entornos descentralizados.
 
-| Especialidad | Actividades Clave |
-| :--- | :--- |
-| **Análisis OSINT** | Investigaciones en fuentes abiertas, recolección de inteligencia de amenazas, rastreo de huellas digitales y auditoría de exposición de datos. |
-| **Seguridad en Gmail** | Auditoría de configuraciones, análisis técnico de cabeceras (*headers*) para detectar Spoofing/Phishing y mitigación de fraudes BEC. |
-| **Smart Contract Security** | Auditoría de contratos inteligentes, detección de vulnerabilidades comunes (Reentrancy, Integer Overflow/Underflow, Front-running) y verificación de lógica de negocio segura en Web3. |
-| **Monitoreo Defensivo** | Análisis de alertas en tiempo real y detección temprana de anomalías en el entorno digital. |
+
+**Análisis OSINT**
+**Seguridad en Gmail** 
+**Smart Contract Security** 
+**Monitoreo Defensivo** 
+Análisis de alertas en tiempo real y detección temprana de anomalías en el entorno digital. 
 
 ---
 
@@ -25,7 +25,8 @@ Aplico prácticas de seguridad ofensiva y defensiva directamente en el ciclo de 
 
 ### 🧳 Tech Stack & Herramientas
 
-*   **Desarrollo:** `Node.js` · `Express` · `React.js` · `Next.js` · `Astro.js` · `React Native` · `Expo` · `SQLite` · `Supabase`
+*   **Desarrollo:** `Node.js` · `Express` · `React.js` · `Next.js` · `Astro.js` · `React Native` · `Expo`
+*    · `SQLite` · `Supabase` · ` php` · `Laravel`
 *   **Seguridad & Pentesting:** `OWASP ZAP` · `Burp Suite` · `Snyk` · `Socket` · `SonarQube` · `IPKTool` · `APKTool` · Análisis estático y de-compilación de APKs.
 
 ---
