@@ -1,24 +1,20 @@
-<img width="1920" height="491" alt="image" src="https://github.com/user-attachments/assets/737eda55-7900-4140-ba13-46ecc2600ffa" />
+  <img width="1920" height="491" alt="Johan Mancebo - Creator of Jokotin & Joeizor" src="https://github.com/user-attachments/assets/737eda55-7900-4140-ba13-46ecc2600ffa" />
 
-# 👨‍💻 Johan Mancebo
-### Algunas de mis Aplicaciones.
-<table>
-  <!-- Fila 1 -->
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/3058ad95-67ca-404b-b997-f84dde2f2a4b" width="100%" style="border-radius: 4px;" alt="AsisLUDRD Vista 1" /></td>
-    <td><img src="https://github.com/user-attachments/assets/3058ad95-67ca-404b-b997-f84dde2f2a4b" width="100%" style="border-radius: 4px;" alt="AsisLUDRD Vista 2" /></td>
-    <td><img src="https://github.com/user-attachments/assets/3058ad95-67ca-404b-b997-f84dde2f2a4b" width="100%" style="border-radius: 4px;" alt="AsisLUDRD Vista 3" /></td>
-  </tr>
-  <!-- Fila 2 -->
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/3058ad95-67ca-404b-b997-f84dde2f2a4b" width="100%" style="border-radius: 4px;" alt="AsisLUDRD Vista 4" /></td>
-    <td><img src="https://github.com/user-attachments/assets/3058ad95-67ca-404b-b997-f84dde2f2a4b" width="100%" style="border-radius: 4px;" alt="AsisLUDRD Vista 5" /></td>
-    <td><img src="https://github.com/user-attachments/assets/3058ad95-67ca-404b-b997-f84dde2f2a4b" width="100%" style="border-radius: 4px;" alt="AsisLUDRD Vista 6" /></td>
-  </tr>
-  <!-- Fila 3 -->
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/3058ad95-67ca-404b-b997-f84dde2f2a4b" width="100%" style="border-radius: 4px;" alt="AsisLUDRD Vista 7" /></td>
-    <td><img src="https://github.com/user-attachments/assets/3058ad95-67ca-404b-b997-f84dde2f2a4b" width="100%" style="border-radius: 4px;" alt="AsisLUDRD Vista 8" /></td>
-    <td><img src="https://github.com/user-attachments/assets/3058ad95-67ca-404b-b997-f84dde2f2a4b" width="100%" style="border-radius: 4px;" alt="AsisLUDRD Vista 9" /></td>
-  </tr>
-</table>
+# 👨‍💻 Johan Mancebo — Creator of Languages
+
+> **I don't use frameworks. I create them.**
+
+I am the creator of a fullstack ecosystem built from scratch:
+
+### 🔥 JOEIZOR - LFM (Language Framework Markup)
+**The Frontend LFM** — Built in Rust + WASM
+- My own syntax: `text`, `sec`, `navig`, `state`, `for`
+- My own extension: `.je`
+- File-based routing: `views/dashboard.je` → `/dashboard`
+- Hot Reload, Reactive State, CLI: `jok-ui create` / `jok-ui run`
+- **LFM = Language + Framework + Markup**
+
+### ⚡ JOKOTIN - Backend Language
+**The Backend Language** — Built in Go
+- My own language for APIs, compiled to Go
+- `main.jok` + `jok run` (backend + frontend together)
